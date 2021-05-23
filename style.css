@@ -1,0 +1,26 @@
+#borda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    margin-top: 100px;
+    
+}
+
+#foto-pokemon {
+    max-height: 75vh;
+    background-image: url(fundo4.png);
+    background-size: cover;
+}
+
+#nome-pokemon {
+    font-size: 3.5em;
+    color: rgb(255, 230, 7);
+    text-shadow: rgba(69, 69, 255, 0.842) 5px 0px 2px;
+    font-variant: small-caps;
+    font-family: Staatliches;
+}
+
+/*font-family: Press Start 2P;
+font-family: Reggae One;
+font-family: Staatliches;*/
